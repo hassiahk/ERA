@@ -3,7 +3,7 @@ We are using ``Gradient Descent`` algorithm to update our weights.
 
 You can download or view the excel in Google Sheets using the below links:
 
-[Download](https://github.com/hassiahk/EVA6-Phase1-Assignments/raw/main/Session4-BackProp_Model_w_lt_20k/Part1-Back_Propagation/Back_Propagation.xlsx) | [Google Sheet](https://drive.google.com/file/d/11sM8N3gR3W5K56zKxsVBbVCXDeJaqRhl/view?usp=sharing)
+[Download](https://github.com/hassiahk/ERA/blob/main/S6-BackProp_ArchitecturalBasics/Part1-Back_Propagation/Back_Propagation.xlsx) | [Google Sheet](https://drive.google.com/file/d/11sM8N3gR3W5K56zKxsVBbVCXDeJaqRhl/view?usp=sharing)
 
 ![Sreenshot](images/Excel_Screenshot.PNG)
 
